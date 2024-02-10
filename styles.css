@@ -1,0 +1,22 @@
+.encabezado {
+    background-color: darkslategrey;
+    display: flex;
+}
+.Header {
+    font-size: larger;
+    font-weight: 800;
+}
+.cuadrados {
+    display: flex;
+    justify-content: center;
+}
+.cita {
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(211, 211, 211);
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
