@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .encabezado {
     background-color: #1f2937;
     display: flex;
@@ -134,4 +135,27 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
+=======
+.encabezado {
+    background-color: darkslategrey;
+    display: flex;
+}
+.Header {
+    font-size: larger;
+    font-weight: 800;
+}
+.cuadrados {
+    display: flex;
+    justify-content: center;
+}
+.cita {
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(211, 211, 211);
+    padding: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+>>>>>>> afbc1a6d8c705c845704e475ba1486766ef74b7f
 }
